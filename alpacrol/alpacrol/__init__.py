@@ -1,0 +1,1 @@
+from alpacrol import NaverNewFnc
